@@ -5,6 +5,8 @@ var myHeaders = {
 	"X-Auth-Token":	"73c0dfe6491242ddd562b45f0c2f98fd"
 };
 
+// AKCJA :)...
+
 $.ajaxSetup({
 	headers: myHeaders
 });
